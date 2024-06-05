@@ -1,3 +1,6 @@
+@import-normalize
+
+
 .transactionHistory {
     border-collapse: collapse;
     table-layout: auto;
